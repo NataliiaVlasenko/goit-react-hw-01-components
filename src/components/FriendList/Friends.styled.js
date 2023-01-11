@@ -15,13 +15,6 @@ margin-left: 20px;
 color: #524a4d;
 `;
 
-// export const FriendOnlineStatus = styled.span`
-// font-size: 24px;
-// font-style: italic;
-// margin-right: 20px;
-// color: ${isOnline => isOnline.children === "online" ? 'green' : 'red'};
-// `;
-
 export const FriendOnlineStatus = styled.span`
 width: 30px;
 height: 30px;

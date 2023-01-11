@@ -53,14 +53,14 @@ margin-bottom: 30px;`;
 
 export const StatsLabel = styled.span`
 color: #97a2ae;
-//padding-top: 22px;
+
 font-size: 12px;
 display: flex;
 `;
 
 export const StatsQuantity = styled.span`
 
-//padding-bottom: 22px;
+
 line-height: 1.2;
 font-weight: 700;
 font-size: 14px;

@@ -11,3 +11,4 @@ export const Transaction = ({item:{type,amount,currency}}) => {
     )
 
 }
+
