@@ -1,9 +1,10 @@
 import styled from '@emotion/styled';
 
 export const AppContainer = styled.div`
-display: 'flex',
-flexDirection: 'column',
-justifyContent: 'center',
-alignItems: 'center',
-gap: '40 px',
+display: flex;
+width: 400px;
+flex-direction: column;
+margin: 0 auto;
+align-items: center;
+gap: 40px;
 `;
